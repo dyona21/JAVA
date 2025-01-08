@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "05\\src",
+        "09\\src",
+        "10\\src",
+        "11\\src",
+        "19\\src",
+        "lista4\\src",
+        "trab_final\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Dyona\\Documents\\JAVA\\jl-1.0.1 (1).jar",
+        "c:\\Users\\Dyona\\Documents\\JAVA\\jlayer-1.0.1.jar"
+    ]
+}

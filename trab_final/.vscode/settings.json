@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Dyona\\Downloads\\postgresql-42.7.3.jar",
+        "c:\\Users\\Dyona\\Documents\\JAVA\\jl-1.0.1 (1).jar",
+        "c:\\Users\\Dyona\\Documents\\JAVA\\jlayer-1.0.1.jar"
+    ]
+}
